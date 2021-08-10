@@ -1,0 +1,2 @@
+rootProject.name = "Carousell_Android"
+include ':app'

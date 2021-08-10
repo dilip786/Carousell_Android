@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Carousell News</string>
+    <string name="sample_title">Carousell is launching its own digital wallet to improve payments for its users</string>
+    <string name="sample_description">Due to launch next month in Singapore, CarouPay will allow buyers and sellers to complete transactions without leaving the Carousell app, rather than having to rely on third-party platforms or doing meet-ups to hand over cash. CarouPay will be a digital wallet within</string>
+    <string name="sample_time">5 hours ago</string>
+</resources>
