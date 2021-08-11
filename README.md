@@ -1,5 +1,7 @@
 # Carousell_Android
 
+The main purpose of this app is retrieving News using Retrofit for doing HTTP request & GSON lib for parsing.
+
  
 ### Libraries Used
 
