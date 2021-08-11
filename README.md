@@ -5,6 +5,7 @@
 
 * Kotlin extensions
 * Retrofit for network calls.
+* Dagger 2 for dependency injection.
 * Rxjava2 for asynchronous calls.
 * Junit/Expresso/Mockito for Unit/UI tests
 * Glide for image loading.
